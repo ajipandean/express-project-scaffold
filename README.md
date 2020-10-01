@@ -48,7 +48,7 @@ Or, Want to put your route handler here? Of course you can, but you waste the co
 Well, this folder simply contains all your route handlers, but not included your CRUD logic, such as: fetch data from database or write data to database.
 Those CRUD logic should be putted in folder called ```/services``` and ```/controllers``` contains all those code from ```/services```.
 
-But, again, you can put everything here. Even your ```node_modules``` folder :v
+But, again, you can put everything here. Even your ```.gitignore``` file :v
 
 ### middlewares
 Middleware is a set of code that executed before the request reaches route handlers.
