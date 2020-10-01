@@ -7,14 +7,14 @@ That's why I created this repo :v so basically this is for my own sake
 But if you want to use it as well, why not? There are steps you have to follow as shown bellow.
 
 ## Getting started
-Before you start coding on your own, make sure you have cloned this project.
+Before you start coding on your own, make sure you have forked and then clone this project.
 
 ```shell
 // Using HTTPS
-git clone https://github.com/ajipandean/express-project-scaffold.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/express-project-scaffold.git
 
 // Using SSH
-git clone git@github.com:ajipandean/express-project-scaffold.git
+git clone git@github.com:YOUR_GITHUB_USERNAME/express-project-scaffold.git
 ```
 
 Now, you have the structure on your computer. Next, let's install the dependencies to make this project works!
